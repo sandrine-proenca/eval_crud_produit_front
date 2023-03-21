@@ -43,4 +43,6 @@ $ npm install react-bootstrap
 
 $ npm install --save react-router-dom
 
+$ npm i bootstrap-icons
+
 ```
